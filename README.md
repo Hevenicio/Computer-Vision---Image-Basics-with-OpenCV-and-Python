@@ -1,2 +1,4 @@
-# Computer-Vision-Image-Basics-with-OpenCV-and-Python
-At this project, you will learn how to open an image with Matplotlib, change the colours of the image and rotate the image. Then you'll open an image with OpenCV, learn the main points to keep in mind when working with OpenCV, flip the image, scale it to Gray. Create an image with Numpy and learn how to draw lines, shapes and write text on them. 
+# Computer Vision - Image Basics with OpenCV and Python
+
+
+In this project, it was possible to open an image with Matplotlib, change the colors of the image and rotate the image. Then, when opening an image with OpenCV, it was possible to learn the main points to remember when working with OpenCV, rotate the image and scale it to Gray. It was possible to create an image with Numpy and learn to draw lines, shapes and write text on them. 

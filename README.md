@@ -10,4 +10,4 @@ In this project, it was possible to open an image with Matplotlib, change the co
 - Change the Image's colour, size, orientation,
 - Draw shapes and write text on an Image.
 
-[Project done on Coursera Project Network]
+### [Project done on Coursera Project Network]

@@ -12,3 +12,5 @@ In this project, it was possible to open an image with Matplotlib, change the co
 - Learn the main points to remember for OpenCV,
 - Change the Image's colour, size, orientation,
 - Draw shapes and write text on an Image.
+
+![aa](https://user-images.githubusercontent.com/65929471/89193696-c1a99980-d57c-11ea-86d3-9ae0796bf046.gif)
